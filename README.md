@@ -1,2 +1,2 @@
 # LRNR
-Created with CodeSandbox
+WYSIWYG Editor
