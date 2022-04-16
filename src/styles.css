@@ -11,19 +11,3 @@
   box-shadow: none;
   outline: none;
 }
-
-.invite-member {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-}
-
-.invite-member p {
-  font-size: 0.5rem;
-  font-weight: lighter;
-}
-
-.accountBox {
-  background-color: aquamarine;
-  min-width: 100px;
-}
